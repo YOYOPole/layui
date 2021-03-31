@@ -1,0 +1,40 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 733,
+      "name": "香奈儿",
+      "description": "好闻的香水！！！",
+      "price": "152",
+      "stock": "签名-0",
+      "categorylevelone": "化妆品",
+      "categoryleveltwo": "面部护理",
+      "categorylevelthree": "少女派",
+      "classify": "baby_1.jpg"
+    },
+    {
+      "id": 733,
+      "name": "香奈儿",
+      "description": "好闻的香水！！！",
+      "price": "152",
+      "stock": "签名-0",
+      "categorylevelone": 255,
+      "categoryleveltwo": 24,
+      "categorylevelthree": 82830700,
+      "classify": "baby_1.jpg"
+    },
+    {
+      "id": 733,
+      "name": "香奈儿",
+      "description": "好闻的香水！！！",
+      "price": "152",
+      "stock": "签名-0",
+      "categorylevelone": 255,
+      "categoryleveltwo": 24,
+      "categorylevelthree": 82830700,
+      "classify": "baby_1.jpg"
+    }
+  ]
+}
